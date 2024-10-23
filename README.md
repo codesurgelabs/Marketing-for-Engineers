@@ -510,6 +510,7 @@ Some more tips & tricks:
 * [80 Powerful Email Endings To Make People Remember You](https://www.criminallyprolific.com/email-endings/) by Dmitry Dragilev.
 * [What to Do When You See Negative Replies to Your Cold Emails?](https://blog.woodpecker.co/cold-email/negative-replies/) by Cathy Patalas.
 * [Timing is everything: what Intercom data says about the best time to send a message](https://blog.intercom.com/timing-is-everything-what-our-data-says-about-when-to-message-your-customers/) by Geoffrey Keating.
+* [Examples of SEO Services] https://www.mikechasteen.com/seo_consulting/ by Michael Chasteen
 
 📌 Useful tools:
 * [Norbert](https://www.voilanorbert.com/) for finding emails. It gives you 50 free email searches once you create an account.
